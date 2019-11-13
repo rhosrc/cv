@@ -1,0 +1,19 @@
+body {
+  background-color: #f4f9f4;
+}
+
+h1, h2, h3 {
+  color: #5c8d89;
+
+}
+
+hr {
+  border-style: dotted none none;
+  border-width: 5px;
+  width: 40px;
+  color: gray;
+}
+
+.hidden-star {
+  visibility: hidden;
+}
